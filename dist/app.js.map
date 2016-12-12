@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"D:/workspace/big-project/angularjs/src/","sources":["app.ts"],"names":[],"mappings":"AAAA,OAAO,CAAC,MAAM,CAAC,OAAO,EAAE,CAAC,SAAS,CAAC,CAAC;KAE/B,MAAM,CAAC,UAAC,cAAuC;IAC5C,cAAc,CAAC,IAAI,CAAC,QAAQ,EAAE;QAC1B,WAAW,EAAE,kBAAkB;QAC/B,UAAU,EAAE,WAAW;KAC1B,CAAC;SAEG,SAAS,CAAC,QAAQ,CAAC,CAAC;AAC7B,CAAC,CAAC,CAAA"}
