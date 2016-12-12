@@ -1,4 +1,5 @@
 angular.module('myApp', ['ngRoute'])
+
     //配置app的路由
     .config(($routeProvider: ng.route.IRouteProvider) => {
         $routeProvider.when('/index', {
